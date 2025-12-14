@@ -1,0 +1,7 @@
+Variable,Coefficient,Business Interpretation
+Intercept,16889.05,Baseline daily demand
+Temperature,1017.61,Impact per °C temperature change
+Weekday,5719.34,Incremental trips on weekdays vs weekends
+Holiday,-4733.62,Impact of public holidays
+Rainfall,-415.76,Impact per mm of rainfall
+Month,-16.28,Monthly trend factor
